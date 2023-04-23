@@ -6,7 +6,7 @@ Mechanical Engineer having passion for Software Engineering
 
 I've been learning to code since this year and huge passion for full stack web development,mobile app development ,machine learning and data science including artificial intelligence ,Flight software engineering,Robotics software development etc..
 
-* 🌍  I'm based in Qatar
+* 🌍  I'm based in Sri Lanka,Qatar
 * ✉️  You can contact me at [shazeenthow@gmail.com](mailto:shazeenthow@gmail.com)
 * 🧠  I'm learning Full stack web development and learning some programming languages like C/C++,Java,JavaScript,Python
 * 🤝  I'm open to collaborating on projects
