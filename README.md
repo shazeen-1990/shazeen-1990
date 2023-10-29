@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shazeen Thowfeek
 ========================================================================================================================================
 
-Mechanical Engineer having passion for Software Engineering
+Mechanical Engineer | Software Developer
 -----------------------------------------------------------
 
 I've been learning to code since 2022 and huge passion for full stack web development,IOS mobile app development ,machine learning and data science including artificial intelligence .Interested in Flight software engineering,C++,Java,Robotics software development  etc..
