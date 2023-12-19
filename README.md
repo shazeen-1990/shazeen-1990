@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mechanical Engineer | Software Developer
 -----------------------------------------------------------
 
-I've been learning to code since 2022 and huge passion for full stack web development,IOS mobile app development ,machine learning and data science including artificial intelligence .Interested in Flight software engineering,C++,Java,Robotics software development  etc..
+I've been learning to code since 2020 and huge passion for full stack web development,IOS mobile app development ,machine learning and data science including artificial intelligence .Interested in Flight software engineering,C++,Java,Robotics software development  etc..
 
 * 🌍  I'm based in Sri Lanka,Qatar
 * ✉️  You can contact me at [shazeenthow@gmail.com](mailto:shazeenthow@gmail.com)
