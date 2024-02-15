@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mechanical Engineer | Software Developer
 -----------------------------------------------------------
 
-I've been learning to code since 2020 and huge passion for full stack web development,IOS/Flutter mobile app development ,machine learning and data science including artificial intelligence .Interested in Flight software development,C++,Java,Python,Robotics software development  etc..
+I've been learning to code since 2020 and huge passion for full stack web development,IOS/Flutter mobile app development ,artificial intelligence and machine learning including data science .Interested in Flight software development,C++,Java,Python,Robotics software development  etc..
 
 * 🌍  I'm based in Sri Lanka,Qatar
 * ✉️  You can contact me at [shazeenthow@gmail.com](mailto:shazeenthow@gmail.com)
 * 🧠  I'm proficient in  Full stack web development ,IOS/Flutter mobile app development and various programming languages like C/C++,Java,JavaScript,Python.Curently learning AI and ML including DevOps
-* 🤝  I'm open to collaborating on projects
+* 🤝  I'm open to collaborating on projects Specially international remote work opportunities.
 * ⚡  I love space industry software engineering projects
 
 ### Skills
